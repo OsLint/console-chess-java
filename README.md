@@ -19,6 +19,10 @@ javac ChessGame.java
 java ChessGame
 ```
 - Follow the on-screen instructions to input your moves and play the game.
+  
+![Board](https://github.com/oskalbarczyk/console-chess-java/assets/106467480/9443b95b-e6e4-4d75-92e2-e511949a072e)
+
+
 
 ## Notes 📝
 - There is no En passant 😡

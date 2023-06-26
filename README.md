@@ -31,7 +31,7 @@ java ChessGame
 ## Contributing 🤝
 Contributions are welcome! If you find any issues or want to add new features, please submit a pull request.
 
-##License 📝
+## License 📝
 This project is licensed under the MIT License.
 
 ## Links
